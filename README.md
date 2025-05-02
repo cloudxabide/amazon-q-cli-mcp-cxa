@@ -1,4 +1,4 @@
-# Amazon Q + CLI + MCP - cloudXabide
+# Amazon Q Developer + CLI + MCP - cloudXabide
 Exploring Amazon Q and CLI with MCP
 
 
