@@ -17,7 +17,7 @@ I will provide guidance for the prereqs in the [references doc](./references.md)
 ## Getting started
 Install uvx via pip/pip3  (the Amazon MCP I am using will utilize uvx)  
 Install node via brew (need for nvx for the Kubernetes troubleshooting stuff)  
-Install Amazon Q CLI  
+[Install Amazon Q CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html)  
 Configure your MCP for Amazon Q  
 Have fun
 
